@@ -1,3 +1,5 @@
+![Snake Game Placeholder](https://wallpapers.com/images/hd/classic-snake-game-design-jw1osayb8qr3c3e4.jpg)
+
 # NYU-SD-01 Milestone Project: Planning
 
 _Before you start programming your project_... plan it!
@@ -33,9 +35,9 @@ Replace this text with pseudocode. Taking big ideas and breaking them down into 
   - Players get 5 minutes to play. Points earned for time will be broken down like this:
     - For every second played, a potential point is lost. Points are only lost after the first 60 seconds.
       - This will not show up to the player actively, this will be abstracted away. Instead, a total of 500 points for time can be earned. Out of those 500 points, however many are earned will be added to the player's score.
-    - 
-    - 
-    - 
+    -
+    -
+    -
   - What other things impact their score?
   - How will I store the top scores for players moving forward? Can I use localstorage?
 
@@ -72,11 +74,11 @@ Describe the logic that evaluates the player's victory/loss/progress status.
 
 ## Project Planning
 
-| Date | Goals |
-| ---- | ----- |
-| Mon. 2/13 | Create GitHub repository. Complete README.md. |
+| Date      | Goals                                                                                                                              |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Mon. 2/13 | Create GitHub repository. Complete README.md.                                                                                      |
 | Wed. 2/15 | Making sure your deployment to GitHub Pages works.Test my file structure and build my main page. Begin coding basic functionality. |
-| Sat. 2/18 |  |
-| Mon. 2/20 |      |
-| Wed. 2/22 | Test project and plan to test and ensure GitHub Pages deploy is up to date and working successfully ahead of your final commit.  |
-| Sat. 2/25 |  Submit completed project. Project presentations. |
+| Sat. 2/18 |                                                                                                                                    |
+| Mon. 2/20 |                                                                                                                                    |
+| Wed. 2/22 | Test project and plan to test and ensure GitHub Pages deploy is up to date and working successfully ahead of your final commit.    |
+| Sat. 2/25 | Submit completed project. Project presentations.                                                                                   |
